@@ -16,7 +16,7 @@ This is a solution to the [Typemaster pre-launch landing page challenge on Front
 
 ### Screenshot
 
-![](./assets/Screenshot-dekstop.png)
+![](./assets/Screenshot-desktop.png)
 ![](./assets/Screenshot-mobile.png)
 
 ### Links
